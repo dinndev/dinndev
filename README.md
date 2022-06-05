@@ -3,10 +3,6 @@
 
 - 🌱 I’m currently learning **Rails**
 
-- 👨‍💻 All of my projects are available at [https://dinndev.github.io/Aladin/](https://dinndev.github.io/Aladin/)
-
-- 💬 Ask me about **Anything but..**
-
 - 📫 How to reach me **dinndev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
